@@ -15,7 +15,7 @@ class Program
 
         if (inputUsername == username && inputPassword == password)
         {
-            Console.WriteLine("Inicio de sesión exitoso.");
+            Console.WriteLine("Inicio de sesión exitoso, que viva el ingeniero Leiva! :D");
         }
         else
         {
